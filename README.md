@@ -90,7 +90,10 @@ HTTP request headers (user agent string, etc.) may be customized by editing the 
 
 ### Monokakido Targets
 Page data and media data must be [procured by the user](https://github.com/golddranks/monokakido/)
-and passed to jitenbot via the appropriate command line flags.
+and passed to jitenbot via the appropriate command line flags. Additionaly, the gaiji folder and the audio icon have to be manually copied from the original dictionary folder into the media folder.
+
+Path:
+```/YOUR_SAVE_PATH/jp.monokakido.Dictionaries.DICTIONARY_NAME/Contents/DICTIONARY_NAME/```.
 
 <details>
   <summary>smk8 media directory</summary>
